@@ -218,7 +218,7 @@ Open a web browser and navigate to http://127.0.0.1:8000/ to start using the app
 
 
 # Tutorial explaing the pages on the system
-- [Tutorial](https://github.com/RanieryN/ProjectFinal/blob/main/tutorial_pages.md)
+- [Tutorial]([https://github.com/RanieryN/ProjectFinal/blob/main/tutorial_pages.md](https://github.com/RanieryN/GerenciadorEstoqueTutorial/blob/main/tutorial_pages.md))
 
 
 ### Acknowledgements
