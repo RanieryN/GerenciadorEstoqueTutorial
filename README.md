@@ -1,3 +1,7 @@
+# Tutorial explaing the pages on the system and a video about the project
+- [Video](https://www.youtube.com/watch?v=hVsYg7hNIn0)
+- [Tutorial](https://github.com/RanieryN/ProjectFinal/blob/main/tutorial_pages.md)
+
 # Stock Management System
 
 
@@ -217,8 +221,7 @@ Open a web browser and navigate to http://127.0.0.1:8000/ to start using the app
 - **JavaScript**: jQuery for interactive elements in the UI, such as expanding sales details.
 
 
-# Tutorial explaing the pages on the system
-- [Tutorial](https://github.com/RanieryN/ProjectFinal/blob/main/tutorial_pages.md)
+
 
 
 ### Acknowledgements
