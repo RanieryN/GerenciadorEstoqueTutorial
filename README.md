@@ -1,6 +1,7 @@
 # Tutorial explaing the pages on the system and a video about the project
 - [Video](https://www.youtube.com/watch?v=hVsYg7hNIn0)
 - [Tutorial](https://github.com/RanieryN/ProjectFinal/blob/main/tutorial_pages.md)
+- [Tutorial](https://github.com/RanieryN/GerenciadorEstoqueTutorial/blob/main/tutorial_pages.md).
 
 # Stock Management System
 
